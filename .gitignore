@@ -2,7 +2,7 @@
 data/
 
 # Trained model
-model/*.h5
+model/*.keras
 
 # Python
 __pycache__/
